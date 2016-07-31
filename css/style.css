@@ -1,0 +1,35 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Comfortaa', cursive;
+}
+.header{
+	border-bottom: 1px solid #eee;
+	padding: 10px 0px;
+	width: 100%;
+	text-align: center;
+	background-color: #66ff66;
+}
+.header a {
+	text-decoration: none;
+}
+.header :hover{
+	color: green;
+}
+.addpost{
+	float: left;
+	clear: both;
+}
+.profile {
+	float: left;
+
+}
+.profile img{
+	border-radius: 50%;
+	width: 20%;
+}
+.News{
+	clear: both;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+}
